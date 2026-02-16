@@ -173,7 +173,7 @@ const App: React.FC = () => {
                   <th className="p-6 text-left font-bold text-dom-blue">Informatics</th>
                   <th className="p-6 text-left font-bold text-dom-blue">Data Science</th>
                   <th className="p-6 text-left font-bold text-dom-blue">CIS</th>
-                  <th className="p-6 text-left font-bold text-dom-blue">Business Analysis</th>
+                  <th className="p-6 text-left font-bold text-dom-blue">Business Analytics</th>
                   <th className="p-6 text-left font-bold text-dom-blue">Math & CS</th>
                 </tr>
               </thead>
@@ -184,7 +184,7 @@ const App: React.FC = () => {
                   <td className="p-6 border-l italic">Human-Tech Interaction</td>
                   <td className="p-6 border-l italic">Advanced Data Analysis</td>
                   <td className="p-6 border-l italic">Business Technology</td>
-                  <td className="p-6 border-l italic">Business Analytics</td>
+                  <td className="p-6 border-l italic">Business Analysis</td>
                   <td className="p-6 border-l italic">Statistical Programming</td>
                 </tr>
                 <tr className="border-b hover:bg-gray-50 transition-colors">
