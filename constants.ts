@@ -96,7 +96,7 @@ export const MAJOR_DATA: ComparisonData = {
   },
   cis: {
     name: "CIS",
-    tagline: "Strategic Technology for Business",
+    tagline: "Solving Business Problems using Technology",
     focus: "Computer Information Systems focuses on the intersection of computing and business management. It prepares students to design and manage information systems that solve organizational problems and improve efficiency.",
     coreClasses: [
       "CPSC 155: Programming I",
@@ -124,5 +124,69 @@ export const MAJOR_DATA: ComparisonData = {
     ],
     url: "https://www.dom.edu/academics/majors-programs/stem/computer-information-systems",
     bulletinUrl: "https://bulletin.dom.edu/preview_program.php?catoid=26&poid=5070"
+  },
+  ba: {
+    name: "Business Analytics",
+    tagline: "Strategizing Business Demands using Technology",
+    focus: "Business Analytics focuses on the intersection of data and technology. It prepares students for a high-impact career where you'll use data and technology to help businesses solve problems, make smart decisions and drive growth in today’s fast-paced world.",
+    coreClasses: [
+      "ACCT 101: Financial Accounting",
+      "BETH 301: Business Ethics",
+      "ECON 101: Principles of Microeconomics",
+      "FIN 301: Corporate Finance",
+      "MKTG 301: Marketing",
+      "MGMT 301: Management",
+      "MGMT 401: Principles of Operations Management",
+      "QUAN 201: Business Statistics",
+      "ECON 341: Econometrics",
+      "QUAN 301: Business Analytics: Techniques and Applications"
+
+    ],
+    careers: [
+      "Business Analyst",
+      "Systems Analyst",
+      "Data Analyst",
+      "Management Consultant",
+      "Marketing Analyst"
+    ],
+    skills: [
+      "Business Intelligence",
+      "Data Analysis",
+      "Statistical Analysis",
+      "Data Visualization"
+    ],
+    url: "https://www.dom.edu/academics/majors-programs/business-analytics",
+    bulletinUrl: "https://bulletin.dom.edu/preview_program.php?catoid=26&poid=5386"
+  },
+    mcs: {
+    name: "Math & CS",
+    tagline: "Mathematical Problem Solving in Software",
+    focus: "Math & CS focuses on the intersection of math and technology. It prepares students to expand their capacity for critical thinking and problem-solving while broadening their career options in a technology-driven world",
+    coreClasses: [
+      "MATH 261 - Analytic Geometry and Calculus I",
+      "MATH 262 - Analytic Geometry and Calculus II",
+      "MATH 230 - Linear Algebra",
+      "MATH 270 - Multivariable Calculus",
+      "CPSC 155 - Computer Programming",
+      "CPSC 165 - Computer Programming II - Data Structures",
+      "CPSC 275 - Windows-Based Application Development",
+      "CPSC 280 - Web Development",
+      "CPSC 285 - Database Design and Programming"
+    ],
+    careers: [
+      "Data Scientis",
+      "Software Engineer",
+      "Quantitative Analyst",
+      "Machine Learning Engineer",
+      "Cryptographer"
+    ],
+    skills: [
+      "Algorithmic Problem-Solving",
+      "Statistical Analysis",
+      "Software Development",
+      "Mathematical Modeling"
+    ],
+    url: "https://www.dom.edu/academics/majors-programs/stem/mathematics-computer-science",
+    bulletinUrl: "https://bulletin.dom.edu/preview_program.php?catoid=26&poid=4917"
   }
 };

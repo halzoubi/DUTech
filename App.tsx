@@ -154,6 +154,8 @@ const App: React.FC = () => {
           {renderMajorCard(MAJOR_DATA.informatics, 'bg-dom-gold text-dom-blue', 'text-dom-blue')}
           {renderMajorCard(MAJOR_DATA.ds, 'bg-dom-gold text-dom-blue', 'text-yellow-200')}
           {renderMajorCard(MAJOR_DATA.cis, 'bg-dom-blue text-white', 'text-dom-gold')}
+          {renderMajorCard(MAJOR_DATA.ba, 'bg-dom-blue text-white', 'text-dom-gold')}
+          {renderMajorCard(MAJOR_DATA.mcs, 'bg-dom-gold text-dom-blue', 'text-yellow-200')}
         </div>
 
         {/* Expanded Comparison Table */}
@@ -171,6 +173,8 @@ const App: React.FC = () => {
                   <th className="p-6 text-left font-bold text-dom-blue">Informatics</th>
                   <th className="p-6 text-left font-bold text-dom-blue">Data Science</th>
                   <th className="p-6 text-left font-bold text-dom-blue">CIS</th>
+                  <th className="p-6 text-left font-bold text-dom-blue">Business Analysis</th>
+                  <th className="p-6 text-left font-bold text-dom-blue">Math & CS</th>
                 </tr>
               </thead>
               <tbody>
@@ -180,6 +184,8 @@ const App: React.FC = () => {
                   <td className="p-6 border-l italic">Human-Tech Interaction</td>
                   <td className="p-6 border-l italic">Advanced Data Analysis</td>
                   <td className="p-6 border-l italic">Business Technology</td>
+                  <td className="p-6 border-l italic">Business Analytics</td>
+                  <td className="p-6 border-l italic">Statistical Programming</td>
                 </tr>
                 <tr className="border-b hover:bg-gray-50 transition-colors">
                   <td className="p-6 font-bold bg-gray-50/50">Primary Goal</td>
@@ -187,13 +193,17 @@ const App: React.FC = () => {
                   <td className="p-6 border-l">User experience</td>
                   <td className="p-6 border-l">Predictive modeling</td>
                   <td className="p-6 border-l">Enterprise management</td>
+                  <td className="p-6 border-l">Business Solutions</td>
+                  <td className="p-6 border-l">Statistical Solutions</td>
                 </tr>
                 <tr className="border-b hover:bg-gray-50 transition-colors">
                   <td className="p-6 font-bold bg-gray-50/50">Math Level</td>
-                  <td className="p-6 border-l">Moderate-High</td>
-                  <td className="p-6 border-l">Applied Statistics</td>
-                  <td className="p-6 border-l">High (Calc/Linear)</td>
-                  <td className="p-6 border-l">Applied/Business</td>
+                  <td className="p-6 border-l">Moderate</td>
+                  <td className="p-6 border-l">Moderate</td>
+                  <td className="p-6 border-l">High</td>
+                  <td className="p-6 border-l">Moderate</td>
+                  <td className="p-6 border-l">Moderate</td>
+                  <td className="p-6 border-l">High</td>
                 </tr>
               </tbody>
             </table>

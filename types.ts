@@ -15,4 +15,6 @@ export interface ComparisonData {
   informatics: MajorInfo;
   ds: MajorInfo;
   cis: MajorInfo;
+  ba: MajorInfo;
+  mcs: MajorInfo;
 }
