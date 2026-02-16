@@ -98,7 +98,7 @@ const App: React.FC = () => {
               <span className="text-dom-gold italic">Dominican University</span>
             </h1>
             <p className="text-white text-xl md:text-2xl font-light max-w-2xl leading-relaxed">
-              Find your future in the digital world. Compare our four high-impact technology programs and discover the right fit for your career goals.
+              Find your future in the digital world. Compare our six high-impact technology programs and discover the right fit for your career goals.
             </p>
           </div>
         </div>
