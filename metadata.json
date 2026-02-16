@@ -1,0 +1,5 @@
+{
+  "name": "Dominican University Tech Navigator",
+  "description": "An interactive guide for students at Dominican University to distinguish between Computer Science and Informatics majors, featuring comparisons of curriculum, careers, and a Gemini-powered major advisor.",
+  "requestFramePermissions": []
+}
