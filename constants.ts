@@ -174,7 +174,7 @@ export const MAJOR_DATA: ComparisonData = {
       "CPSC 285 - Database Design and Programming"
     ],
     careers: [
-      "Data Scientis",
+      "Data Scientist",
       "Software Engineer",
       "Quantitative Analyst",
       "Machine Learning Engineer",
