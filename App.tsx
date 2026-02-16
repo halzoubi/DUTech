@@ -216,7 +216,7 @@ const App: React.FC = () => {
              <div className="lg:w-1/2 p-16 flex flex-col justify-center">
                 <h2 className="text-4xl font-bold text-white mb-6">Find Your Pathway Today</h2>
                 <p className="text-blue-100 text-lg mb-8 leading-relaxed">
-                  Choosing a major is the first step in your career journey. Our tech faculty are here to mentor you, regardless of which path you choose. All majors provide a rigorous Bachelor of Science (B.S.) degree.
+                  Choosing a major is the first step in your career journey. Our tech faculty are here to mentor you, regardless of which path you choose.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <button className="bg-dom-gold text-dom-blue px-10 py-4 rounded-full font-bold hover:bg-white transition-all shadow-lg transform hover:-translate-y-1">
