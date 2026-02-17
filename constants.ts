@@ -130,16 +130,12 @@ export const MAJOR_DATA: ComparisonData = {
     tagline: "Strategizing Business Demands using Technology",
     focus: "Business Analytics focuses on the intersection of data and technology. It prepares students for a high-impact career where you'll use data and technology to help businesses solve problems, make smart decisions and drive growth in today’s fast-paced world.",
     coreClasses: [
-      "ACCT 101: Financial Accounting",
-      "BETH 301: Business Ethics",
-      "ECON 101: Principles of Microeconomics",
-      "FIN 301: Corporate Finance",
-      "MKTG 301: Marketing",
-      "MGMT 301: Management",
-      "MGMT 401: Principles of Operations Management",
-      "QUAN 201: Business Statistics",
       "ECON 341: Econometrics",
-      "QUAN 301: Business Analytics: Techniques and Applications"
+      "QUAN 301: Business Analytics",
+      "ACCT 201: Intro to Data Analytics in Accounting",
+      "MKTG 371: Marketing Research",
+      "QUAN 497: Big Data, Predictive Analytics, and Ethics",
+      "INF 251: Database Management"
 
     ],
     careers: [
@@ -163,15 +159,15 @@ export const MAJOR_DATA: ComparisonData = {
     tagline: "Mathematical Problem Solving in Software",
     focus: "Math & CS focuses on the intersection of math and technology. It prepares students to expand their capacity for critical thinking and problem-solving while broadening their career options in a technology-driven world",
     coreClasses: [
-      "MATH 261 - Analytic Geometry and Calculus I",
-      "MATH 262 - Analytic Geometry and Calculus II",
-      "MATH 230 - Linear Algebra",
-      "MATH 270 - Multivariable Calculus",
-      "CPSC 155 - Computer Programming",
-      "CPSC 165 - Computer Programming II - Data Structures",
-      "CPSC 275 - Windows-Based Application Development",
-      "CPSC 280 - Web Development",
-      "CPSC 285 - Database Design and Programming"
+      "MATH 261: Analytic Geometry and Calculus I",
+      "MATH 262: Analytic Geometry and Calculus II",
+      "MATH 230: Linear Algebra",
+      "MATH 270: Multivariable Calculus",
+      "CPSC 155: Computer Programming",
+      "CPSC 165: Computer Programming II: Data Structures",
+      "CPSC 275: Windows-Based Application Development",
+      "CPSC 280: Web Development",
+      "CPSC 285: Database Design and Programming"
     ],
     careers: [
       "Data Scientist",
